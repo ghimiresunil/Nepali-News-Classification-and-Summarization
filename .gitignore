@@ -1,2 +1,4 @@
 venv.txt
 dataset/*
+__pycache__
+__pycache__/*
