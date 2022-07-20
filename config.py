@@ -11,9 +11,9 @@ InputDir = os.path.join(RootDir, "dataset")
 raw_text_files = os.path.join(InputDir, "raw_text/raw_text.txt")
 
 """<-------Stop Words files--------->"""
-stop_words = os.path.join(InputDir, "stopwords/stopwords.txt")
+stop_words = os.path.join(InputDir, "./stopwords.txt")
 
 """ News Classification file"""
-nnc_files = os.path.join(InputDir, "nnc_data/Data.csv")
+nnc_files = os.path.join(InputDir, "./Data.csv")
 
 # breakpoint()
